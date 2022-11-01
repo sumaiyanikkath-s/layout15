@@ -1,0 +1,589 @@
+.header .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.banner .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.Debitis .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.Constructions .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.services .wrapper
+{
+width:80%;
+margin:auto;
+}
+.dolores .wrapper
+{
+width:80%;
+margin:auto;
+}
+.logo .wrapper
+{
+width:80%;
+margin:auto;
+}
+.magna .wrapper
+{
+width:80%;
+margin:auto;
+}
+.Projects .wrapper
+{
+width:80%;
+margin:auto;
+}
+.Testimonials .wrapper
+{
+width:80%;
+margin:auto;
+}
+.Posts .wrapper
+{
+width:80%;
+margin:auto;
+}
+.about .wrapper
+{
+width:80%;
+margin:auto;
+}
+.copyright .wrapper
+{
+width:80%;
+margin:auto;
+}
+.header
+{
+	height:85px;
+	background-color:plum;
+}
+.header .header-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.header .header-fc .header-logo
+{
+	background-color:lightskyblue;
+	width:12%;
+	height:40px;
+	align-items:left;
+	margin-top:15px;
+}
+.header .header-fc .header.nav
+{	
+	background-color:plum;
+	width:40%;
+	height:40px;
+	margin-top:5px;
+}
+.banner
+{
+	height:515px;
+	background-color:lightskyblue;
+}
+.banner .banner-fc
+{
+	flex-wrap:wrap;
+	display:flex;
+	text-align:center;
+	justify-content:space-between;
+	flex-direction:column;
+	align-items:center;
+}
+.banner .banner-fc .boxa
+{
+	height:172px;
+	width:40%;
+	margin-top:100px;
+	background-color:blue;
+}
+.banner .banner-fc .boxb
+{
+	height:57px;
+	width:12%;
+	margin-top:150px;
+	background-color:blue;
+}
+.Debitis
+{
+	height:731px;
+	background-color:plum;
+}
+.Debitis .Debitis-fc
+{
+	flex-wrap:wrap;
+	display:flex;
+	justify-content:space-between;
+	flex-direction:row;
+	align-items:center;
+}
+.Debitis .Debitis-fc .logoa
+{
+	height:400px;
+	width:45%;
+	margin-top:100px;
+	background-color:blue;
+}
+.Debitis .Debitis-fc .logob
+{
+	height:575px;
+	width:45%;
+	margin-top:100px;
+	background-color:blue;
+}
+.Constructions
+{
+	height:980px;
+	background-color:lightskyblue;
+}
+.Constructions .Constructions-fc
+{
+	flex-wrap:wrap;
+	display:flex;
+	justify-content:space-between;
+	flex-direction:row;
+	align-items:center;
+}
+.Constructions .Constructions-fc .texta
+{
+	width:100%;
+	margin-top:100px;
+	text-align:center;
+}
+.Constructions .Constructions-fc .boxa
+{
+	height:304px;
+	width:49%;
+	margin-top:150px;
+	background-color:blue;
+}
+.Constructions .Constructions-fc .boxb
+{
+	height:304px;
+	width:49%;
+	margin-top:150px;
+	background-color:blue;
+}
+.Constructions .Constructions-fc .boxc
+{
+	height:304px;
+	width:49%;
+	margin-top:20px;
+	background-color:blue;
+}
+.Constructions .Constructions-fc .boxd
+{
+	height:304px;
+	width:49%;
+	margin-top:20px;
+	background-color:blue;
+}
+.services
+{
+	height:1096px;
+	background-color:plum;
+}
+.services .services-fc 
+{
+	flex-wrap:wrap;
+	display:flex;
+	justify-content:space-between;
+	flex-direction:row;
+	align-items:center;
+}
+.services .services-fc .texta
+{
+	width:100%;
+	margin-top:100px;
+	text-align:center;
+}
+.services .services-fc .boxa
+{
+	height:376px;
+	width:32%;
+	margin-top:100px;
+	background-color:blue;
+}
+.services .services-fc .boxb
+{
+	height:376px;
+	width:32%;
+	margin-top:100px;
+	background-color:blue;
+}
+.services .services-fc .boxc
+{
+	height:376px;
+	width:32%;
+	margin-top:100px;
+	background-color:blue;
+}
+.services .services-fc .boxd
+{
+	height:376px;
+	width:32%;
+	margin-top:20px;
+	background-color:blue;
+}
+.services .services-fc .boxe
+{
+	height:376px;
+	width:32%;
+	margin-top:20px;
+	background-color:blue;
+}
+.services .services-fc .boxf
+{
+	height:376px;
+	width:32%;
+	margin-top:20px;
+	background-color:blue;
+}
+.dolores
+{
+	height:978px;
+	background-color:lightskyblue;
+}
+.dolores .dolores-fc
+{
+	flex-wrap:wrap;
+	display:flex;
+	justify-content:space-between;
+	flex-direction:row;
+	align-items:center;
+}
+.dolores .dolores-fc .img
+{
+	height:814px;
+	width:46%;
+	margin-top:100px;
+	background-color:blue;
+}
+.dolores .dolores-fc .texta
+{
+	height:814px;
+	width:46%;
+	margin-top:100px;
+	background-color:blue;
+}	
+.logo
+{
+	height:162px;
+	background-color:plum;
+}
+.logo .logo-fc
+{
+	flex-wrap:wrap;
+	display:flex;
+	justify-content:space-between;
+	flex-direction:row;
+	align-items:center;
+}
+.logo .logo-fc .logoa
+{
+	height:90px;
+	width:23%;
+	margin-top:40px;
+	background-color:blue;
+}
+.logo .logo-fc .logob
+{
+	height:90px;
+	width:23%;
+	margin-top:40px;
+	background-color:blue;
+}
+.logo .logo-fc .logoc
+{
+	height:90px;
+	width:23%;
+	margin-top:40px;
+	background-color:blue;
+}
+.logo .logo-fc .logod
+{
+	height:90px;
+	width:23%;
+	margin-top:40px;
+	background-color:blue;
+}
+.magna
+{
+	height:507px;
+	background-color:lightskyblue;
+}
+.magna .magna-fc
+{
+	flex-wrap:wrap;
+	display:flex;
+	justify-content:space-between;
+	flex-direction:row;
+	align-items:center;
+}
+.magna .magna-fc .texta
+{
+	height:355px;
+	width:45%;
+	margin-top:40px;
+	background-color:blue;
+}
+.magna .magna-fc .imga
+{
+	height:412px;
+	width:45%;
+	margin-top:40px;
+	background-color:blue;
+}
+.Projects
+{
+	height:1531px;
+	background-color:plum;
+}
+.Projects .Projects-fc
+{
+	flex-wrap:wrap;
+	display:flex;
+	justify-content:space-between;
+	flex-direction:row;
+	align-items:center;
+}
+.Projects .Projects-fc .texta
+{
+	width:100%;
+	margin-top:100px;
+	text-align:center;
+}
+.Projects .Projects-fc .boxa
+{
+	height:269px;
+	width:30%;
+	margin-top:100px;
+	background-color:blue;
+}
+.Projects .Projects-fc .boxb
+{
+	height:269px;
+	width:30%;
+	margin-top:100px;
+	background-color:blue;
+}
+.Projects .Projects-fc .boxc
+{
+	height:269px;
+	width:30%;
+	margin-top:100px;
+	background-color:blue;
+}
+.Projects .Projects-fc .boxd
+{
+	height:269px;
+	width:30%;
+	margin-top:20px;
+	background-color:blue;
+}
+.Projects .Projects-fc .boxe
+{
+	height:269px;
+	width:30%;
+	margin-top:20px;
+	background-color:blue;
+}
+.Projects .Projects-fc .boxf
+{
+	height:269px;
+	width:30%;
+	margin-top:20px;
+	background-color:blue;
+}
+.Projects .Projects-fc .boxg
+{
+	height:269px;
+	width:30%;
+	margin-top:20px;
+	background-color:blue;
+}
+.Projects .Projects-fc .boxh
+{
+	height:269px;
+	width:30%;
+	margin-top:20px;
+	background-color:blue;
+}
+.Projects .Projects-fc .boxi
+{
+	height:269px;
+	width:30%;
+	margin-top:20px;
+	background-color:blue;
+}
+.Projects .Projects-fc .boxj
+{
+	height:269px;
+	width:30%;
+	margin-top:20px;
+	background-color:blue;
+}
+.Projects .Projects-fc .boxk
+{
+	height:269px;
+	width:30%;
+	margin-top:20px;
+	background-color:blue;
+}
+.Projects .Projects-fc .boxl
+{
+	height:269px;
+	width:30%;
+	margin-top:20px;
+	background-color:blue;
+}
+.Testimonials
+{
+	height:685px;
+	background-color:lightskyblue;
+}
+.Testimonials .Testimonials-fc
+{
+	flex-wrap:wrap;
+	display:flex;
+	justify-content:space-between;
+	flex-direction:row;
+	align-items:center;
+}
+.Testimonials .Testimonials-fc .texta
+{
+	width:100%;
+	margin-top:100px;
+	text-align:center;
+}
+.Testimonials .Testimonials-fc .boxa
+{
+	height:284px;
+	width:45%;
+	margin-top:100px;
+	background-color:blue;
+}
+.Testimonials .Testimonials-fc .boxb
+{
+	height:284px;
+	width:45%;
+	margin-top:100px;
+	background-color:blue;
+}
+.Posts
+{
+	height:809px;
+	background-color:plum;
+}
+.Posts .Posts-fc
+{
+	flex-wrap:wrap;
+	display:flex;
+	justify-content:space-between;
+	flex-direction:row;
+	align-items:center;
+}
+.Posts .Posts-fc .texta
+{
+	width:100%;
+	margin-top:100px;
+	text-align:center;
+}
+.Posts .Posts-fc .boxa
+{
+	height:490px;
+	width:30%;
+	margin-top:100px;
+	background-color:blue;
+}
+.Posts .Posts-fc .boxb
+{
+	height:490px;
+	width:30%;
+	margin-top:100px;
+	background-color:blue;
+}
+.Posts .Posts-fc .boxc
+{
+	height:490px;
+	width:30%;
+	margin-top:100px;
+	background-color:blue;
+}
+.about
+{
+	height:337px;
+	background-color:lightskyblue;
+}
+.about .about-fc
+{
+	flex-wrap:wrap;
+	display:flex;
+	justify-content:space-between;
+	flex-direction:row;
+	align-items:center;
+}
+.about .about-fc .boxa
+{
+	height:252px;
+	width:23%;
+	margin-top:30px;
+	background-color:blue;
+}
+.about .about-fc .boxb
+{
+	height:252px;
+	width:15%;
+	margin-top:30px;
+	background-color:blue;
+}
+.about .about-fc .boxc
+{
+	height:252px;
+	width:15%;
+	margin-top:30px;
+	background-color:blue;
+}
+.about .about-fc .boxd
+{
+	height:252px;
+	width:16%;
+	margin-top:30px;
+	background-color:blue;
+}
+.about .about-fc .boxe
+{
+	height:252px;
+	width:13%;
+	margin-top:30px;
+	background-color:blue;
+}
+.copyright
+{
+	height:172px;
+	background-color:plum;
+}
+.copyright .copyright-fc
+{
+	justify-content:center;
+	align-items:center;
+	flex-direction:center;
+}
+.copyright .copyright-fc .texta
+{
+	width:100%;
+	text-align:center;
+	margin-top:100px;
+}
